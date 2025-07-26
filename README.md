@@ -31,5 +31,7 @@ This project demonstrates the use of SQL for querying and analyzing structured d
 - Python (optional, if you accessed it via Jupyter)
 
 ---
+🔗 For more projects, visit my [main portfolio](https://github.com/ReginaHaley/data-portfolio)
+
 
 **Last Updated:** July 2025
